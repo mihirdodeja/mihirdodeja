@@ -2,7 +2,6 @@
 - 👀 I’m interested in backend projects.
 - 🌱 I’m currently learning languages. C,C++,MySQL.
 - 💞️ I’m looking to collaborate on team which is interested in backend developing.
-- 📫 You can reach me on Instagram as well as on Snap. My ig id is mihirrdodeja and on snap it is mihirrrx.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
